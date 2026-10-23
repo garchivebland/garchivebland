@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<!-- MEGAPHONE:START -->
+> **📣 As our company grows, we grow too.**  
+> As our company grows, we grow too. You grow too. We have been and will be releasing branches out of games? Yes games. Good Games everyone Please check it out hnere: https://garchive.itch.io/
+>
+> <sub>Updated October 23, 2026</sub>
+<!-- MEGAPHONE:END -->
+
 <!--
 **garchivebland/garchivebland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
