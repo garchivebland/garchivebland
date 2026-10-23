@@ -1,12 +1,5 @@
 ## Hi there 👋
 
-<!-- MEGAPHONE:START -->
-> **📣 Poop fart**  
-> Scat poop
->
-> <sub>Updated October 23, 2026</sub>
-<!-- MEGAPHONE:END -->
-
 <!--
 **garchivebland/garchivebland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
