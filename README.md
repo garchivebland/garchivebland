@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 <!-- MEGAPHONE:START -->
-> **📣 test**  
-> Hello sir
+> **📣 Poop fart**  
+> Scat poop
 >
 > <sub>Updated October 23, 2026</sub>
 <!-- MEGAPHONE:END -->
